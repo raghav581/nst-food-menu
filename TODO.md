@@ -1,13 +1,15 @@
 # Tasks
 
-- [ ] Viewer
-  - [ ] Show current week menu
+- [x] Viewer
+  - [x] Show current week menu
 - [ ] Admin
   - [ ] Log In
   - [ ] Add new menu as templates
   - [ ] Edit existing menu
   - [ ] Delete menu
   - [ ] Publish menu for current week
+
+- It should be mobile responsive.
 
 Pages:
 
