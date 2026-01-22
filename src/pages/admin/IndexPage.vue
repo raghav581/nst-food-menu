@@ -1,4 +1,4 @@
 <template>
-    <h1>Lunding</h1>
+    <h1>Landing</h1>
 
 </template>
